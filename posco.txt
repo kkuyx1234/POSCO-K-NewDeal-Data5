@@ -1,0 +1,5 @@
+오늘 배운  것
+- git 로그인 / vscode 설치 / python 설치 
+- vscode에 colab 연동? 설정 하기 
+- git이랑 gitub  연동 후 push와 pull 해보기
+- git에 추적 부터 commit 작성까지 
